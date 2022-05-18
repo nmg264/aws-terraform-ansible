@@ -6,7 +6,7 @@ This repository is created for the tech test of qantas SecOps role
 # Repository Description
 This repository is created for storing SecOps engineer technical test of AWS, Ansible, Terraform.
 
-## Branch Name: [feature branch](https://github.com/nmg264/qantas-aws-terraform-ansible/tree/main)
+## Branch Name: [feature branch](https://github.com/nmg264/qantas-aws-terraform-ansible/tree/feature_branch_v1)
 
 ### Problem Statement 
 
